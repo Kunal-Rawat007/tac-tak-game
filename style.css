@@ -1,0 +1,48 @@
+.homepage {
+  /* display: grid; */
+  /* grid-template-columns: auto auto auto; */
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 10px;
+  /* column-gap: 190px; */
+
+}
+
+.button {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  /* padding: 15px; */
+  height: 120px;
+  /* width: 50px; */
+  font-size: 30px;
+  text-align: center;
+  width: 120px;
+}
+
+.tic-takotterbox {
+  padding: 40px;
+  text-align: center;
+  display: grid;
+  /* background-color: blue; */
+  padding-left: 390px;
+  padding-right: 370px;
+  /* height: 210%; */
+}
+.heading{
+  text-align: center;
+  font-weight: 500;
+  font-size: xx-large;
+}
+.player{
+  display: flex;
+  justify-content: space-between;
+}
+.player_heading{
+  display: flex;
+  justify-content: space-between;
+}
+label{
+  font-weight: 90px;
+  padding: 15px;
+  font-size: larger;
+
+}
